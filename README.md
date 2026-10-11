@@ -1,30 +1,20 @@
-<h1 align="center">Hi 👋, I'm Trisha Mohan Moharle</h1>
-<h3 align="center">AIML Engineering Student | Full-Stack & AI Developer 🚀</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Trisha%20Mohan%20Moharle&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Engineering%20Student%20|%20AI%20&%20Full-Stack%20Developer&descSize=15&descColor=00FFFF&descAlignY=58" alt="Synthwave Header"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewith-trisha&color=blue&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewith-trisha&theme=radical" alt="codewith-trisha trophies" /></a>
+  <a href="https://linkedin.com/in/trisha-moharle" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/trisha_moharle" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
 
-### 💻 About Me
-- 🌱 I’m currently diving deep into **Advanced Machine Learning, NLP, and Computer Vision**.
-- 🔭 I’m currently building **[CortexAI](https://github.com/codewith-trisha/cortexAI)** — An Enterprise Multipurpose AI Platform built with Microservices, Node.js, React, and Redis.
-- ⚡ Passionate about bridging the gap between heavy AI models and high-performance full-stack web applications.
+### 💻 About Me.
 
----
-
-### 🚀 Featured Project
-<table>
-  <tr>
-    <td width="70%">
-      <h3><a href="https://github.com/codewith-trisha/cortexAI">CortexAI — Enterprise Multipurpose AI Platform</a></h3>
-      <p>A scalable, full-stack AI SaaS application engineered with a distributed microservices architecture, real-time messaging pipeline, API gateway, Docker orchestration, and Firebase/OAuth security.</p>
-      <p><b>Tech Stack:</b> React, Node.js, Express, Microservices, Redis, Docker, Firebase</p>
-    </td>
-  </tr>
-</table>
+- 🎓 AIML Engineering Student passionate about building intelligent systems.
+- 🤖 Exploring Advanced Machine Learning, NLP, and Computer Vision.
+- 🌐 Bridging the gap between heavy AI models and high-performance full-stack web applications.
+- 🎯 Open to collaborating on innovative tech projects and open source.
 
 ---
 
@@ -57,15 +47,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewith-trisha&show_icons=true&theme=tokyonight&hide_border=true" alt="codewith-trisha stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewith-trisha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="codewith-trisha stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewith-trisha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/trisha-moharle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trisha moharle" height="30" width="40" /></a>
-  <a href="https://instagram.com/trisha_moharle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trisha_moharle" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewith-trisha&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
